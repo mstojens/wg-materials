@@ -24,8 +24,8 @@
     - DocType: Session 1: wg updates/side meeting coordination
 
 *   Draft name: best practices for using client auth when making encrypted DNS connections-00
-    - Datatracker URL:
-    - Requester Email: Tommy Jensen <Jensen.Thomas@microsoft.com>
+    - Datatracker URL: https://datatracker.ietf.org/doc/draft-tjjk-cared/
+    - Requester Email: Tommy Jensen <tojens@microsoft.com>
     - Time Requested: 15 min
     - DocType: for consideration
 
@@ -35,9 +35,9 @@
     - Time Requested: 15 min
     - DocType: for consideration
 
-*   Draft name: 464 Customer-side Translator (CLAT): Node Recommendations
-    - Datatracker URL: https://datatracker.ietf.org/doc/draft-link-v6ops-claton/
-    - Requester Email: Tommy Jensen <Jensen.Thomas@microsoft.com>
+*   Draft name: Redefining Secure Channel for ipv4only.arpa IPv6 Prefix Discovery
+    - Datatracker URL: https://datatracker.ietf.org/doc/draft-jens-7050-secure-channel/
+    - Requester Email: Tommy Jensen <tojens@microsoft.com>
     - Time Requested: 10 min
     - DocType: liaison with other WGs
 
